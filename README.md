@@ -1,9 +1,9 @@
 Node.js program performing the following:
 Create Directory
 Remove Directory
-Write File 
-Read File 
+Write File
+Read File
 Delete File
-Append data to file
-Update / Replace file with new data
+Append File
+Update File
 Rename File
